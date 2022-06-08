@@ -1,6 +1,6 @@
 # Merge-Sort-Projesi---Patika
 ## [16,21,11,8,12,22] dizisinin Merge sort türüne göre aşamalarını yazınız.
-`1.Aşama -ikiye bölüyoruz. 16,21,11-----8,12,22
+1.Aşama -ikiye bölüyoruz. 16,21,11-----8,12,22
 
 2.Aşama -tekrar ikiye bölüyoruz 16,21----11----------8,12-------22
 
@@ -8,7 +8,7 @@
 
 4.Aşama -Yanyana olan parçaları kıyaslıyoruz -16,21 den küçük, 11 ,16 dan küçük swap ediyoruz, 8,12den 12 , 22 den küçük 11,16,21---8,12,22
 
-5.Aşama -Son 2 parçadaki elemanları da kıyaslıyoruz 8,11,12,16,21,22`
+5.Aşama -Son 2 parçadaki elemanları da kıyaslıyoruz 8,11,12,16,21,22
 
 ## Big-O Notation
 `Big o gösterimi O(nlogn) dir`
